@@ -6,9 +6,11 @@
 
 <div>
   <a href="https://github.com/azrmicael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azrmicael&show icons=true&theme=radical&include all commits=true&count private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrmicael&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=azrmicael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrmicael&langs_count=14&theme=radical"/>
+</div> <!-- incluir após o username &layout=compact -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" 
