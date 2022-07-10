@@ -2,7 +2,19 @@
 
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript
 - 📫 How to reach me: azr.micael@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him/his
+
+##
+
+### About...
+
+I have a degree in Physics from UESB and a Master's degree in Physics from UFMA.
+
+I started tinkering with LaTeX during graduation and then I saw a bit of Fortran. In the master's, I got to know Python. With the knowledge I acquired about the latter, I came to develop some applications that helped me analyze and generate graphs of the results I obtained in my experiments.
+
+In the last few months I've been getting more and more interested in programming and I started studying some of the technologies used in web development, my focus has been the front-end part, so I've been studying HTML5, CSS3 and JavaScript.
+
+##
 
 <div>
   <a href="https://github.com/azrmicael">
@@ -19,6 +31,8 @@
   src=https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg>
   <img align="center" alt="CSS3" height="30" width="40" 
   src=https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg>
+  <img align="center" alt="Python" height="30" width="40" 
+  src=https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg>
 </div>
 
 ##
