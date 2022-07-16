@@ -21,7 +21,7 @@ In the last few months I've been getting more and more interested in programming
   <img height="180em" 
        src="https://github-readme-stats.vercel.app/api?username=azrmicael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrmicael&langs_count=14&theme=radical"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrmicael&layout=compact&langs_count=14&theme=radical"/>
 </div> <!-- incluir após o username &layout=compact -->
 
 <div style="display: inline_block"><br>
