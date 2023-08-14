@@ -22,18 +22,18 @@ I am currently taking CS50's Introduction to Computer Science course and have be
 <div align="left">
   <a href="https://github.com/azrmicael#gh-light-mode-only">
   <img height="180em" alt="Micael Azevedo's Github stats"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=azrmicael&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true&theme=default#gh-light-mode-only" />
+       src="https://github-readme-stats-eight-xi-96.vercel.app/api?username=azrmicael&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true&theme=default#gh-light-mode-only" />
   <img height="180em" alt="Micael Azevedo's Language stats"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azrmicael&langs_count=14&hide_border=false&theme=default#gh-light-mode-only" />
+       src="https://github-readme-stats-eight-xi-96.vercel.app/api/top-langs/?username=azrmicael&langs_count=14&layout=compact&hide_border=false&theme=default#gh-light-mode-only" />
 </div>
 
 <!-- Dark Mode -->
 <div align="left">
   <a href="https://github.com/azrmicael#gh-dark-mode-only">
   <img height="180em" alt="Micael Azevedo's Github stats"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=azrmicael&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true&theme=radical&bg_color=161B22#gh-dark-mode-only" />
+       src="https://github-readme-stats-eight-xi-96.vercel.app/api?username=azrmicael&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true&theme=radical&bg_color=161B22#gh-dark-mode-only" />
   <img height="180em" alt="Micael Azevedo's Language stats"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azrmicael&langs_count=14&hide_border=false&theme=radical&bg_color=161B22#gh-dark-mode-only" />
+       src="https://github-readme-stats-eight-xi-96.vercel.app/api/top-langs/?username=azrmicael&langs_count=14&layout=compact&hide_border=false&theme=radical&bg_color=161B22#gh-dark-mode-only" />
 </div>
 
 <!-- Languages I have some experience with -->
