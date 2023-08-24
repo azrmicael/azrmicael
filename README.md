@@ -50,8 +50,6 @@ I am currently taking CS50's Introduction to Computer Science course and have be
   src=https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg>
   <img align="center" alt="C" height="30" width="40" 
   src=https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg>
-  <img align="center" alt="C" height="30" width="40" 
-  src=https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg>
 </div>
 
 ##
